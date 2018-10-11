@@ -4,11 +4,14 @@
   "description": "Responsive Narayan Shaw Portfolio website",
   "main": "index.js",
   "scripts": {
+    "deploy": "gh-pages -d dist",
     "sass": "node-sass -w scss/ -o dist/css/ --recursive"
   },
   "author": "Er. Narayan Shaw",
   "license": "MIT",
+  "homepage": "https://ShawNarayan.github.io/MyPortfolio",
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "node-sass": "^4.9.3"
   }
 }
