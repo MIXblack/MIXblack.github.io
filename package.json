@@ -9,7 +9,7 @@
   },
   "author": "Er. Narayan Shaw",
   "license": "MIT",
-  "homepage": "https://mixblack.github.io/MyPortfolio/",
+  "homepage": "https://MIXblack.github.io/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "node-sass": "^4.9.3"
